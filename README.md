@@ -8,7 +8,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Development server: Server (backend)
 
-Run `npm run start:server` for a backend server in a separate command.
+Run `npm run start:server` for a backend server in a separate command. It will run on port `http://localhost:3000/api/...`
 
 ## Database configuration
 
