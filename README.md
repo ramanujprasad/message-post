@@ -8,14 +8,11 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Development server: Server (backend)
 
-Run `npm run start:server` for a backend server.
+Run `npm run start:server` for a backend server in a separate command.
 
 ## Database configuration
 
-Create an account here https://cloud.mongodb.com/
+Create a database here https://cloud.mongodb.com/
 
-Replace the password in nodemon.json and mongoose path in backend/app.js at line number 11. Also make sure, you configure the IP Address, sometimes IP address varries so edit and refresh is in above path and once active, it will connect properly
+Replace the password in nodemon.json and mongoose path in backend/app.js at line number 11. Also make sure, you configure the IP Address, sometimes IP address varries so edit and refresh is in above path. I will show 'active' status means it is active for use.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
